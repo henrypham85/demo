@@ -1,0 +1,15 @@
+D:\Dropbox\Learn\CSharp\Study\Study\bin\Debug\Study.exe.config
+D:\Dropbox\Learn\CSharp\Study\Study\bin\Debug\Study.exe
+D:\Dropbox\Learn\CSharp\Study\Study\bin\Debug\Study.pdb
+D:\Dropbox\Learn\CSharp\Study\Study\obj\Debug\Study.csprojAssemblyReference.cache
+D:\Dropbox\Learn\CSharp\Study\Study\obj\Debug\MainWindow.g.cs
+D:\Dropbox\Learn\CSharp\Study\Study\obj\Debug\App.g.cs
+D:\Dropbox\Learn\CSharp\Study\Study\obj\Debug\Study_MarkupCompile.cache
+D:\Dropbox\Learn\CSharp\Study\Study\obj\Debug\Study_MarkupCompile.lref
+D:\Dropbox\Learn\CSharp\Study\Study\obj\Debug\MainWindow.baml
+D:\Dropbox\Learn\CSharp\Study\Study\obj\Debug\Study.g.resources
+D:\Dropbox\Learn\CSharp\Study\Study\obj\Debug\Study.Properties.Resources.resources
+D:\Dropbox\Learn\CSharp\Study\Study\obj\Debug\Study.csproj.GenerateResource.cache
+D:\Dropbox\Learn\CSharp\Study\Study\obj\Debug\Study.csproj.CoreCompileInputs.cache
+D:\Dropbox\Learn\CSharp\Study\Study\obj\Debug\Study.exe
+D:\Dropbox\Learn\CSharp\Study\Study\obj\Debug\Study.pdb
